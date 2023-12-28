@@ -20,11 +20,7 @@ This project is a simple implementation of a minimalist blog card design using o
 - HTML
 - CSS
 
-## Getting Started
-
-These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
-
-1. Original design by <a href='https://devchallenges.io/profile/ff6a2335-b279-4601-8927-85c85af7e7d8'>Thu Nghiem</a>:
+## Original design by <a href='https://devchallenges.io/profile/ff6a2335-b279-4601-8927-85c85af7e7d8'>Thu Nghiem</a>:
 
    ```bash
    https://devchallenges.io/challenge/27
